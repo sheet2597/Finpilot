@@ -1,0 +1,29 @@
+[
+  {
+    "name": "NovaTech Solutions Pvt Ltd",
+    "business_type": "private_limited",
+    "gst_number": "27AABCN1234F1Z5",
+    "pan_number": "AABCN1234F",
+    "industry": "Information Technology",
+    "city": "Pune",
+    "state": "Maharashtra"
+  },
+  {
+    "name": "GreenLeaf Organics",
+    "business_type": "partnership",
+    "gst_number": "29AABCG5678H1Z2",
+    "pan_number": "AABCG5678H",
+    "industry": "Retail & FMCG",
+    "city": "Bengaluru",
+    "state": "Karnataka"
+  },
+  {
+    "name": "Skyline Freelance Studio",
+    "business_type": "sole_proprietorship",
+    "gst_number": "07AABCS9012K1Z8",
+    "pan_number": "AABCS9012K",
+    "industry": "Creative Services",
+    "city": "New Delhi",
+    "state": "Delhi"
+  }
+]

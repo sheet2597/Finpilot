@@ -1,0 +1,92 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    -webkit-font-smoothing: antialiased;
+  }
+  body {
+    @apply bg-surface-muted text-ink-900 transition-colors dark:bg-ink-950 dark:text-slate-100;
+  }
+  ::selection {
+    @apply bg-accent-light;
+  }
+}
+
+@layer components {
+  .input-base {
+    @apply w-full rounded-lg border border-slate-200 bg-white px-3.5 py-2.5 text-sm text-ink-900
+      placeholder:text-slate-400 outline-none transition-all duration-300
+      focus:border-accent focus:ring-2 focus:ring-accent/20
+      dark:border-slate-600 dark:bg-slate-800 dark:text-white dark:placeholder:text-slate-500
+      dark:hover:border-slate-500 dark:focus:border-accent dark:focus:ring-accent;
+  }
+  select.input-base option {
+    @apply bg-white text-ink-900 dark:bg-slate-800 dark:text-white;
+  }
+  .input-error {
+    @apply border-red-300 focus:border-red-400 focus:ring-red-100 dark:border-red-500 dark:focus:border-red-500 dark:focus:ring-red-500/20;
+  }
+  .btn-primary {
+    @apply inline-flex items-center justify-center gap-2 rounded-lg bg-accent px-4 py-2.5
+      text-sm font-semibold text-white transition-all duration-300 hover:bg-accent-dark hover:-translate-y-0.5 hover:shadow-md
+      disabled:cursor-not-allowed disabled:opacity-50 disabled:hover:translate-y-0 disabled:hover:shadow-none
+      dark:bg-accent dark:hover:bg-accent-dark;
+  }
+  .btn-secondary {
+    @apply inline-flex items-center justify-center gap-2 rounded-lg border border-slate-200 bg-white px-4 py-2.5
+      text-sm font-semibold text-ink-900 transition-all duration-300 hover:bg-surface-muted hover:-translate-y-0.5 hover:shadow-sm
+      disabled:cursor-not-allowed disabled:opacity-50 disabled:hover:translate-y-0 disabled:hover:shadow-none
+      dark:border-slate-700 dark:bg-slate-900 dark:text-slate-200 dark:hover:bg-slate-800;
+  }
+  .card {
+    @apply rounded-xl2 border border-slate-100 bg-white p-6 shadow-card transition-colors duration-300
+      dark:border-slate-700 dark:bg-slate-900;
+  }
+  .label {
+    @apply mb-1.5 block text-sm font-medium text-slate-650 dark:text-slate-400;
+  }
+  .field-error {
+    @apply mt-1 text-xs font-medium text-red-500;
+  }
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(6px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.animate-fade-in {
+  animation: fadeIn 0.35s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+}
+
+.hover-card {
+  transition: all 0.3s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.hover-card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 12px 24px -10px rgba(0, 0, 0, 0.04);
+}
+
+/* Hide scrollbar while keeping scroll functionality */
+.scrollbar-none {
+  -ms-overflow-style: none;  /* IE and Edge */
+  scrollbar-width: none;     /* Firefox */
+}
+.scrollbar-none::-webkit-scrollbar {
+  display: none;             /* Chrome, Safari, Opera */
+}
+
+/* Hide default Edge/IE password reveal icon to prevent double icons */
+input[type="password"]::-ms-reveal,
+input[type="password"]::-ms-clear {
+  display: none;
+}

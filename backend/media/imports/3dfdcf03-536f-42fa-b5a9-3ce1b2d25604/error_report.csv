@@ -1,0 +1,2 @@
+row_number,error,date,amount,type,category,description,vendor,customer,payment_method,reference_number,invoice_number,gst_amount,tds_amount,status,notes
+2,could not convert string to float: 'x',2026-01-05,x,income,Sales,Bad,,,bank_transfer,R1,,0,0,completed,

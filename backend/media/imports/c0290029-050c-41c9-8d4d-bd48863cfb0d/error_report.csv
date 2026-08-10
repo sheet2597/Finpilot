@@ -1,0 +1,5 @@
+row_number,error,date,amount,type,category,description,vendor,customer,payment_method,reference_number,invoice_number,gst_amount,tds_amount,status,notes
+2,"[ErrorDetail(string=""Unknown category 'Not A Real Category'."", code='invalid')]",2026-06-01,1000,expense,Not A Real Category,Bad category test,,,,,,,,,
+3,"[ErrorDetail(string=""Unknown category ''."", code='invalid')]",2026-06-01,1000,expense,,Missing category test,,,,,,,,,
+4,could not convert string to float: 'not-a-number',2026-06-02,not-a-number,expense,Office Supplies,Non-numeric amount,,,,,,,,,
+5,could not convert string to float: '',2026-06-02,,expense,Office Supplies,Missing amount,,,,,,,,,

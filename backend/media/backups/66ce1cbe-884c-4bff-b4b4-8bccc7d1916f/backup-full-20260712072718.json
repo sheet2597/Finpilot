@@ -1,0 +1,29 @@
+{
+  "scope": "full",
+  "user_id": "66ce1cbe-884c-4bff-b4b4-8bccc7d1916f",
+  "generated_at": "2026-07-12T07:27:18.075260",
+  "collections": {
+    "companies": [
+      {
+        "owner_id": "66ce1cbe-884c-4bff-b4b4-8bccc7d1916f",
+        "is_deleted": false,
+        "name": "Backup Co",
+        "id": "6a5341d63a711ddf591e6508"
+      }
+    ],
+    "vendors": [
+      {
+        "owner_id": "66ce1cbe-884c-4bff-b4b4-8bccc7d1916f",
+        "name": "Vendor A",
+        "id": "6a5341d63a711ddf591e6509"
+      }
+    ],
+    "customers": [],
+    "user_preferences": [],
+    "transactions": [],
+    "budgets": [],
+    "documents": [],
+    "transaction_categories": [],
+    "company_settings": []
+  }
+}

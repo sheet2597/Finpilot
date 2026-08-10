@@ -1,0 +1,151 @@
+date,amount,type,category,description,vendor,customer,payment_method,reference_number,invoice_number,gst_amount,tds_amount,status,notes
+2025-04-01,40497.81,expense,Professional Fees,Monthly cloud hosting,Google Cloud India,,cash,REF2025055,INV-2025-1055,0,0,completed,Demo transaction for FinPilot presentation
+2025-04-01,14682.67,expense,Travel,CA audit fees,QuickBooks Partner,,cash,REF2025115,INV-2025-1115,2642.88,0,completed,Demo transaction for FinPilot presentation
+2025-04-02,38936.34,expense,Salaries,Electricity bill,UrbanClap Pro,,credit_card,REF2025031,INV-2025-1031,7008.54,0,completed,Demo transaction for FinPilot presentation
+2025-04-06,15447.18,expense,Travel,Client meeting travel,Google Cloud India,,upi,REF2025089,INV-2025-1089,2780.49,0,completed,Demo transaction for FinPilot presentation
+2025-04-07,56398.55,income,Other Income,Service contract renewal,,SmartHome Automation,debit_card,REF2025084,INV-2025-1084,0,0,completed,Demo transaction for FinPilot presentation
+2025-04-11,10455.81,expense,Rent,Office stationery purchase,Canon India,,net_banking,REF2025110,INV-2025-1110,1882.05,0,completed,Demo transaction for FinPilot presentation
+2025-04-13,13872.55,expense,Marketing,Team salaries,QuickBooks Partner,,upi,REF2025051,INV-2025-1051,2497.06,0,completed,Demo transaction for FinPilot presentation
+2025-04-17,6498.92,income,Sales,Product sale - Q1,,LegalEase Consultants,bank_transfer,REF2025024,INV-2025-1024,0,0,completed,Demo transaction for FinPilot presentation
+2025-04-19,25328.63,expense,Professional Fees,Electricity bill,Adobe Systems,,credit_card,REF2025045,INV-2025-1045,0,0,completed,Demo transaction for FinPilot presentation
+2025-04-21,6834.6,expense,Other Expense,Client meeting travel,Local CA Associates,,credit_card,REF2025046,INV-2025-1046,0,0,completed,Demo transaction for FinPilot presentation
+2025-04-22,38293.14,expense,Travel,Office rent - May,HDFC Bank,,cash,REF2025083,INV-2025-1083,6892.77,0,completed,Demo transaction for FinPilot presentation
+2025-04-30,5211.67,expense,Office Supplies,Client meeting travel,Tata Power,,cash,REF2025019,INV-2025-1019,0,0,completed,Demo transaction for FinPilot presentation
+2025-04-30,2446.38,expense,Office Supplies,Software subscription,Google Cloud India,,bank_transfer,REF2025034,INV-2025-1034,440.35,0,completed,Demo transaction for FinPilot presentation
+2025-05-02,16072.53,expense,Professional Fees,Monthly cloud hosting,UrbanClap Pro,,net_banking,REF2025027,INV-2025-1027,2893.06,0,completed,Demo transaction for FinPilot presentation
+2025-05-02,13492.51,expense,Salaries,Office stationery purchase,Swiggy Instamart B2B,,credit_card,REF2025033,INV-2025-1033,2428.65,0,completed,Demo transaction for FinPilot presentation
+2025-05-04,37016.76,expense,Salaries,CA audit fees,Tata Power,,cash,REF2025010,INV-2025-1010,6663.02,0,completed,Demo transaction for FinPilot presentation
+2025-05-07,1662.27,expense,Travel,Client meeting travel,QuickBooks Partner,,upi,REF2025105,INV-2025-1105,0,0,completed,Demo transaction for FinPilot presentation
+2025-05-13,1408.1,expense,Other Expense,Office stationery purchase,QuickBooks Partner,,debit_card,REF2025075,INV-2025-1075,0,0,completed,Demo transaction for FinPilot presentation
+2025-05-17,15835.83,income,Interest Income,Service contract renewal,,GreenEnergy Solar,credit_card,REF2025112,INV-2025-1112,0,0,completed,Demo transaction for FinPilot presentation
+2025-05-18,12913.63,expense,Rent,Office stationery purchase,Adobe Systems,,upi,REF2025061,INV-2025-1061,2324.45,0,completed,Demo transaction for FinPilot presentation
+2025-05-19,11086.28,expense,Bank Charges,CA audit fees,Microsoft India,,net_banking,REF2025026,INV-2025-1026,1995.53,0,completed,Demo transaction for FinPilot presentation
+2025-05-20,2231.54,expense,Utilities,Bank service charges,Tata Power,,cash,REF2025149,INV-2025-1149,0,0,completed,Demo transaction for FinPilot presentation
+2025-05-23,2613.41,income,Sales,Product sale - Q2,,DataDrive Analytics,bank_transfer,REF2025000,INV-2025-1000,0,0,completed,Demo transaction for FinPilot presentation
+2025-05-23,24990.48,expense,Office Supplies,Electricity bill,Adobe Systems,,bank_transfer,REF2025097,INV-2025-1097,4498.29,0,completed,Demo transaction for FinPilot presentation
+2025-05-25,20666.24,expense,Travel,CA audit fees,Tata Power,,debit_card,REF2025137,INV-2025-1137,0,0,completed,Demo transaction for FinPilot presentation
+2025-05-29,35494.7,expense,Travel,Team salaries,Google Cloud India,,upi,REF2025106,INV-2025-1106,6389.05,0,completed,Demo transaction for FinPilot presentation
+2025-05-30,13612.17,expense,Other Expense,Electricity bill,Local CA Associates,,bank_transfer,REF2025041,INV-2025-1041,2450.19,0,completed,Demo transaction for FinPilot presentation
+2025-06-01,3269.76,expense,Utilities,Team salaries,Local CA Associates,,cash,REF2025035,INV-2025-1035,0,0,completed,Demo transaction for FinPilot presentation
+2025-06-04,7737.72,income,Sales,Consulting invoice payment,,AgriFresh Exports,net_banking,REF2025020,INV-2025-1020,0,0,completed,Demo transaction for FinPilot presentation
+2025-06-04,19722.33,income,Interest Income,Consulting invoice payment,,Wellness Yoga Studio,bank_transfer,REF2025096,INV-2025-1096,0,0,completed,Demo transaction for FinPilot presentation
+2025-06-07,10862.61,expense,Other Expense,Team salaries,Swiggy Instamart B2B,,cash,REF2025025,INV-2025-1025,1955.27,0,completed,Demo transaction for FinPilot presentation
+2025-06-08,21011.83,expense,Other Expense,Office rent - Apr,Canon India,,debit_card,REF2025065,INV-2025-1065,3782.13,0,completed,Demo transaction for FinPilot presentation
+2025-06-10,10705.31,expense,Travel,Software subscription,Office Depot India,,upi,REF2025069,INV-2025-1069,0,0,completed,Demo transaction for FinPilot presentation
+2025-06-21,35250.92,expense,Marketing,Team salaries,Canon India,,net_banking,REF2025049,INV-2025-1049,6345.17,0,completed,Demo transaction for FinPilot presentation
+2025-06-22,799.61,income,Sales,Service contract renewal,,EduPrime Coaching,cash,REF2025044,INV-2025-1044,0,79.96,completed,Demo transaction for FinPilot presentation
+2025-06-24,40896.83,expense,Utilities,Office rent - 1,Canon India,,credit_card,REF2025107,INV-2025-1107,7361.43,0,completed,Demo transaction for FinPilot presentation
+2025-06-29,11140.04,expense,Utilities,Electricity bill,Microsoft India,,cash,REF2025133,INV-2025-1133,2005.21,0,completed,Demo transaction for FinPilot presentation
+2025-07-11,39199.23,expense,Rent,Software subscription,Office Depot India,,credit_card,REF2025017,INV-2025-1017,0,0,completed,Demo transaction for FinPilot presentation
+2025-07-12,17337.87,expense,Rent,Bank service charges,Adobe Systems,,debit_card,REF2025050,INV-2025-1050,0,0,completed,Demo transaction for FinPilot presentation
+2025-07-14,7164.07,expense,Other Expense,Team salaries,QuickBooks Partner,,net_banking,REF2025042,INV-2025-1042,0,0,completed,Demo transaction for FinPilot presentation
+2025-07-20,14336.55,expense,Salaries,Electricity bill,Swiggy Instamart B2B,,debit_card,REF2025094,INV-2025-1094,2580.58,0,completed,Demo transaction for FinPilot presentation
+2025-07-22,12969.78,income,Service Revenue,Consulting invoice payment,,CloudNine Hospitality,net_banking,REF2025064,INV-2025-1064,0,0,completed,Demo transaction for FinPilot presentation
+2025-07-27,10266.44,expense,Salaries,Office stationery purchase,Reliance Jio,,upi,REF2025023,INV-2025-1023,0,0,completed,Demo transaction for FinPilot presentation
+2025-07-28,27963.02,expense,Professional Fees,Office stationery purchase,FedEx Logistics,,net_banking,REF2025134,INV-2025-1134,0,0,completed,Demo transaction for FinPilot presentation
+2025-08-04,10263.9,expense,Travel,Monthly cloud hosting,FedEx Logistics,,cash,REF2025062,INV-2025-1062,0,0,completed,Demo transaction for FinPilot presentation
+2025-08-06,13107.2,income,Service Revenue,Monthly retainer fee,,FashionHub Retail,cash,REF2025100,INV-2025-1100,0,0,completed,Demo transaction for FinPilot presentation
+2025-08-07,15019.45,expense,Other Expense,Client meeting travel,Tata Power,,bank_transfer,REF2025093,INV-2025-1093,2703.5,0,completed,Demo transaction for FinPilot presentation
+2025-08-08,15320.02,expense,Marketing,Client meeting travel,Adobe Systems,,bank_transfer,REF2025077,INV-2025-1077,2757.6,0,completed,Demo transaction for FinPilot presentation
+2025-08-08,21228.98,expense,Travel,Electricity bill,Adobe Systems,,debit_card,REF2025098,INV-2025-1098,3821.22,0,completed,Demo transaction for FinPilot presentation
+2025-08-10,40515.91,income,Service Revenue,Product sale - QApr,,TravelMate Tours,upi,REF2025080,INV-2025-1080,0,0,completed,Demo transaction for FinPilot presentation
+2025-08-11,40394.92,expense,Bank Charges,Bank service charges,Canon India,,upi,REF2025067,INV-2025-1067,7271.09,0,completed,Demo transaction for FinPilot presentation
+2025-08-14,9725.67,expense,Marketing,Bank service charges,Office Depot India,,upi,REF2025011,INV-2025-1011,1750.62,0,completed,Demo transaction for FinPilot presentation
+2025-08-14,14373.37,expense,Other Expense,Digital marketing campaign,UrbanClap Pro,,upi,REF2025037,INV-2025-1037,0,0,completed,Demo transaction for FinPilot presentation
+2025-08-18,36034.09,expense,Other Expense,Bank service charges,UrbanClap Pro,,debit_card,REF2025073,INV-2025-1073,6486.14,0,completed,Demo transaction for FinPilot presentation
+2025-08-18,37608.47,income,Interest Income,Monthly retainer fee,,UrbanFit Gym Chain,cash,REF2025108,INV-2025-1108,0,0,completed,Demo transaction for FinPilot presentation
+2025-08-19,65211.26,income,Interest Income,Service contract renewal,,EduPrime Coaching,bank_transfer,REF2025068,INV-2025-1068,0,0,completed,Demo transaction for FinPilot presentation
+2025-08-20,8739.34,expense,Professional Fees,Electricity bill,Canon India,,debit_card,REF2025121,INV-2025-1121,1573.08,0,completed,Demo transaction for FinPilot presentation
+2025-08-21,34194.57,expense,Office Supplies,CA audit fees,Office Depot India,,upi,REF2025003,INV-2025-1003,0,0,completed,Demo transaction for FinPilot presentation
+2025-08-23,32661.41,expense,Travel,Software subscription,Microsoft India,,upi,REF2025095,INV-2025-1095,5879.05,0,completed,Demo transaction for FinPilot presentation
+2025-08-27,26065.38,expense,Marketing,Monthly cloud hosting,Microsoft India,,upi,REF2025006,INV-2025-1006,4691.77,0,completed,Demo transaction for FinPilot presentation
+2025-08-28,20872.87,expense,Rent,Electricity bill,Google Cloud India,,net_banking,REF2025119,INV-2025-1119,0,0,completed,Demo transaction for FinPilot presentation
+2025-08-31,42054.33,expense,Marketing,Monthly cloud hosting,Adobe Systems,,cash,REF2025122,INV-2025-1122,7569.78,0,completed,Demo transaction for FinPilot presentation
+2025-09-10,38359.09,expense,Rent,Software subscription,QuickBooks Partner,,net_banking,REF2025129,INV-2025-1129,6904.64,0,completed,Demo transaction for FinPilot presentation
+2025-09-14,7520.43,expense,Salaries,Software subscription,Adobe Systems,,bank_transfer,REF2025009,INV-2025-1009,0,0,completed,Demo transaction for FinPilot presentation
+2025-09-15,32444.99,expense,Rent,Client meeting travel,UrbanClap Pro,,net_banking,REF2025057,INV-2025-1057,0,0,completed,Demo transaction for FinPilot presentation
+2025-09-15,73748.94,income,Service Revenue,Monthly retainer fee,,PixelCraft Agency,debit_card,REF2025076,INV-2025-1076,0,0,completed,Demo transaction for FinPilot presentation
+2025-09-17,22390.72,expense,Utilities,Software subscription,Adobe Systems,,bank_transfer,REF2025126,INV-2025-1126,0,0,completed,Demo transaction for FinPilot presentation
+2025-09-18,38963.67,expense,Bank Charges,Bank service charges,Google Cloud India,,cash,REF2025123,INV-2025-1123,7013.46,0,completed,Demo transaction for FinPilot presentation
+2025-09-21,22213.97,income,Service Revenue,Project milestone payment,,FashionHub Retail,debit_card,REF2025144,INV-2025-1144,0,2221.4,completed,Demo transaction for FinPilot presentation
+2025-09-24,56604.62,income,Interest Income,Interest credited,,SmartHome Automation,net_banking,REF2025092,INV-2025-1092,0,0,completed,Demo transaction for FinPilot presentation
+2025-09-26,3482.08,expense,Rent,Client meeting travel,Local CA Associates,,bank_transfer,REF2025039,INV-2025-1039,0,0,completed,Demo transaction for FinPilot presentation
+2025-10-01,76839.33,income,Interest Income,Consulting invoice payment,,TravelMate Tours,debit_card,REF2025132,INV-2025-1132,0,0,completed,Demo transaction for FinPilot presentation
+2025-10-03,63622.67,income,Interest Income,Interest credited,,SecureNet IT Services,upi,REF2025012,INV-2025-1012,0,0,completed,Demo transaction for FinPilot presentation
+2025-10-05,6505.91,expense,Rent,CA audit fees,Microsoft India,,debit_card,REF2025145,INV-2025-1145,1171.06,0,completed,Demo transaction for FinPilot presentation
+2025-10-07,17229.65,expense,Rent,Digital marketing campaign,HDFC Bank,,upi,REF2025007,INV-2025-1007,3101.34,0,completed,Demo transaction for FinPilot presentation
+2025-10-12,27363.03,expense,Professional Fees,Team salaries,FedEx Logistics,,debit_card,REF2025101,INV-2025-1101,4925.35,0,completed,Demo transaction for FinPilot presentation
+2025-10-14,20602.64,expense,Rent,Office stationery purchase,FedEx Logistics,,debit_card,REF2025063,INV-2025-1063,3708.48,0,completed,Demo transaction for FinPilot presentation
+2025-10-25,20278.22,expense,Bank Charges,Client meeting travel,Swiggy Instamart B2B,,upi,REF2025091,INV-2025-1091,0,0,completed,Demo transaction for FinPilot presentation
+2025-10-26,37654.04,expense,Other Expense,Team salaries,FedEx Logistics,,debit_card,REF2025030,INV-2025-1030,6777.73,0,completed,Demo transaction for FinPilot presentation
+2025-10-26,30756.59,expense,Salaries,Digital marketing campaign,Reliance Jio,,net_banking,REF2025047,INV-2025-1047,5536.19,0,completed,Demo transaction for FinPilot presentation
+2025-10-26,31288.95,expense,Professional Fees,Office rent - Apr,HDFC Bank,,cash,REF2025070,INV-2025-1070,5632.01,0,completed,Demo transaction for FinPilot presentation
+2025-10-26,31998.27,expense,Salaries,Monthly cloud hosting,Microsoft India,,upi,REF2025118,INV-2025-1118,0,0,completed,Demo transaction for FinPilot presentation
+2025-10-27,4667.08,expense,Bank Charges,Monthly cloud hosting,Adobe Systems,,net_banking,REF2025127,INV-2025-1127,840.07,0,completed,Demo transaction for FinPilot presentation
+2025-10-28,15132.22,expense,Professional Fees,Electricity bill,Swiggy Instamart B2B,,debit_card,REF2025113,INV-2025-1113,2723.8,0,completed,Demo transaction for FinPilot presentation
+2025-10-29,78727.04,income,Service Revenue,Product sale - Q2,,BrightPath EdTech,upi,REF2025048,INV-2025-1048,0,0,completed,Demo transaction for FinPilot presentation
+2025-10-30,33009.72,expense,Marketing,Client meeting travel,Office Depot India,,upi,REF2025142,INV-2025-1142,0,0,completed,Demo transaction for FinPilot presentation
+2025-11-01,40804.79,income,Other Income,Monthly retainer fee,,DataDrive Analytics,net_banking,REF2025072,INV-2025-1072,0,4080.48,completed,Demo transaction for FinPilot presentation
+2025-11-03,42618.82,expense,Bank Charges,Software subscription,Tata Power,,cash,REF2025021,INV-2025-1021,0,0,completed,Demo transaction for FinPilot presentation
+2025-11-07,24747.59,expense,Professional Fees,Client meeting travel,Canon India,,cash,REF2025059,INV-2025-1059,0,0,completed,Demo transaction for FinPilot presentation
+2025-11-09,19621.85,expense,Rent,Bank service charges,Office Depot India,,net_banking,REF2025085,INV-2025-1085,0,0,completed,Demo transaction for FinPilot presentation
+2025-11-12,28345.52,expense,Utilities,Monthly cloud hosting,Amazon Web Services,,cash,REF2025141,INV-2025-1141,5102.19,0,completed,Demo transaction for FinPilot presentation
+2025-11-14,33655.13,expense,Salaries,Office rent - 1,Office Depot India,,net_banking,REF2025131,INV-2025-1131,6057.92,0,completed,Demo transaction for FinPilot presentation
+2025-11-16,32277.68,expense,Salaries,CA audit fees,Reliance Jio,,credit_card,REF2025002,INV-2025-1002,5809.98,0,completed,Demo transaction for FinPilot presentation
+2025-11-17,14639.25,expense,Travel,Office rent - 3,Tata Power,,debit_card,REF2025087,INV-2025-1087,0,0,completed,Demo transaction for FinPilot presentation
+2025-11-17,15187.24,income,Service Revenue,Consulting invoice payment,,NextGen Robotics,debit_card,REF2025104,INV-2025-1104,0,0,completed,Demo transaction for FinPilot presentation
+2025-11-19,29883.74,expense,Travel,Software subscription,Microsoft India,,credit_card,REF2025114,INV-2025-1114,5379.07,0,completed,Demo transaction for FinPilot presentation
+2025-11-20,35608.93,income,Interest Income,Project milestone payment,,DataDrive Analytics,upi,REF2025120,INV-2025-1120,0,0,completed,Demo transaction for FinPilot presentation
+2025-11-21,20683.66,expense,Travel,Office rent - 1,Reliance Jio,,cash,REF2025038,INV-2025-1038,3723.06,0,completed,Demo transaction for FinPilot presentation
+2025-11-25,43453.22,expense,Other Expense,Software subscription,UrbanClap Pro,,net_banking,REF2025086,INV-2025-1086,0,0,completed,Demo transaction for FinPilot presentation
+2025-11-26,17620.8,expense,Office Supplies,CA audit fees,Local CA Associates,,upi,REF2025074,INV-2025-1074,3171.74,0,completed,Demo transaction for FinPilot presentation
+2025-11-29,39791.5,income,Interest Income,Product sale - QMay,,CloudNine Hospitality,net_banking,REF2025060,INV-2025-1060,0,0,completed,Demo transaction for FinPilot presentation
+2025-11-30,11012.75,expense,Rent,Software subscription,QuickBooks Partner,,net_banking,REF2025090,INV-2025-1090,1982.29,0,completed,Demo transaction for FinPilot presentation
+2025-12-05,12164.12,expense,Salaries,Client meeting travel,Microsoft India,,bank_transfer,REF2025117,INV-2025-1117,0,0,completed,Demo transaction for FinPilot presentation
+2025-12-06,28925.51,income,Other Income,Monthly retainer fee,,PixelCraft Agency,credit_card,REF2025088,INV-2025-1088,0,0,completed,Demo transaction for FinPilot presentation
+2025-12-11,25553.62,expense,Office Supplies,Monthly cloud hosting,Adobe Systems,,credit_card,REF2025139,INV-2025-1139,4599.65,0,completed,Demo transaction for FinPilot presentation
+2025-12-12,35419.42,income,Other Income,Monthly retainer fee,,EduPrime Coaching,bank_transfer,REF2025116,INV-2025-1116,0,0,completed,Demo transaction for FinPilot presentation
+2025-12-13,37237.66,income,Interest Income,Service contract renewal,,CloudNine Hospitality,cash,REF2025016,INV-2025-1016,0,0,completed,Demo transaction for FinPilot presentation
+2025-12-13,35435.77,expense,Utilities,Digital marketing campaign,Local CA Associates,,credit_card,REF2025143,INV-2025-1143,6378.44,0,completed,Demo transaction for FinPilot presentation
+2025-12-15,44457.58,expense,Other Expense,Bank service charges,UrbanClap Pro,,cash,REF2025066,INV-2025-1066,8002.36,0,completed,Demo transaction for FinPilot presentation
+2025-12-21,32140.11,expense,Salaries,Digital marketing campaign,FedEx Logistics,,bank_transfer,REF2025022,INV-2025-1022,0,0,completed,Demo transaction for FinPilot presentation
+2025-12-22,26015.86,expense,Travel,Electricity bill,QuickBooks Partner,,debit_card,REF2025111,INV-2025-1111,4682.85,0,completed,Demo transaction for FinPilot presentation
+2025-12-27,26919.12,expense,Professional Fees,Office stationery purchase,Airtel Business,,cash,REF2025014,INV-2025-1014,0,0,completed,Demo transaction for FinPilot presentation
+2025-12-31,68150.07,income,Interest Income,Product sale - Q2,,EduPrime Coaching,upi,REF2025028,INV-2025-1028,0,0,completed,Demo transaction for FinPilot presentation
+2026-01-07,8420.26,expense,Professional Fees,Office rent - Apr,Microsoft India,,bank_transfer,REF2025029,INV-2025-1029,1515.65,0,completed,Demo transaction for FinPilot presentation
+2026-01-08,24223.02,expense,Bank Charges,CA audit fees,Airtel Business,,net_banking,REF2025005,INV-2025-1005,4360.14,0,completed,Demo transaction for FinPilot presentation
+2026-01-13,5053.91,expense,Marketing,Monthly cloud hosting,HDFC Bank,,cash,REF2025147,INV-2025-1147,0,0,completed,Demo transaction for FinPilot presentation
+2026-01-18,38976.62,income,Other Income,Product sale - Q2,,FreshBake Foods,upi,REF2025124,INV-2025-1124,0,0,completed,Demo transaction for FinPilot presentation
+2026-01-22,35045.08,expense,Rent,Client meeting travel,Amazon Web Services,,credit_card,REF2025081,INV-2025-1081,0,0,completed,Demo transaction for FinPilot presentation
+2026-01-23,15035.51,expense,Other Expense,Client meeting travel,Airtel Business,,bank_transfer,REF2025053,INV-2025-1053,0,0,completed,Demo transaction for FinPilot presentation
+2026-01-25,18826.69,expense,Bank Charges,CA audit fees,Swiggy Instamart B2B,,bank_transfer,REF2025071,INV-2025-1071,0,0,completed,Demo transaction for FinPilot presentation
+2026-01-25,12047.74,expense,Office Supplies,Digital marketing campaign,UrbanClap Pro,,net_banking,REF2025146,INV-2025-1146,0,0,completed,Demo transaction for FinPilot presentation
+2026-02-01,24364.18,expense,Utilities,Software subscription,HDFC Bank,,debit_card,REF2025018,INV-2025-1018,4385.55,0,completed,Demo transaction for FinPilot presentation
+2026-02-03,1623.86,expense,Professional Fees,Team salaries,Amazon Web Services,,cash,REF2025001,INV-2025-1001,0,0,completed,Demo transaction for FinPilot presentation
+2026-02-04,9136.77,income,Interest Income,Monthly retainer fee,,Wellness Yoga Studio,bank_transfer,REF2025004,INV-2025-1004,0,0,completed,Demo transaction for FinPilot presentation
+2026-02-04,19811.6,expense,Bank Charges,CA audit fees,Airtel Business,,bank_transfer,REF2025109,INV-2025-1109,3566.09,0,completed,Demo transaction for FinPilot presentation
+2026-02-05,26926.39,expense,Rent,Digital marketing campaign,Google Cloud India,,bank_transfer,REF2025054,INV-2025-1054,0,0,completed,Demo transaction for FinPilot presentation
+2026-02-08,31725.04,income,Service Revenue,Interest credited,,UrbanFit Gym Chain,bank_transfer,REF2025040,INV-2025-1040,0,0,completed,Demo transaction for FinPilot presentation
+2026-02-10,25037.68,expense,Travel,CA audit fees,Reliance Jio,,credit_card,REF2025058,INV-2025-1058,0,0,completed,Demo transaction for FinPilot presentation
+2026-02-12,38735.47,expense,Travel,Client meeting travel,Amazon Web Services,,cash,REF2025102,INV-2025-1102,6972.38,0,completed,Demo transaction for FinPilot presentation
+2026-02-12,51796.99,income,Service Revenue,Service contract renewal,,Wellness Yoga Studio,net_banking,REF2025140,INV-2025-1140,0,0,completed,Demo transaction for FinPilot presentation
+2026-02-13,33989.65,expense,Office Supplies,Team salaries,Office Depot India,,upi,REF2025079,INV-2025-1079,6118.14,0,completed,Demo transaction for FinPilot presentation
+2026-02-14,31276.71,income,Service Revenue,Service contract renewal,,LegalEase Consultants,net_banking,REF2025056,INV-2025-1056,0,0,completed,Demo transaction for FinPilot presentation
+2026-02-14,6822.99,income,Service Revenue,Monthly retainer fee,,FreshBake Foods,net_banking,REF2025128,INV-2025-1128,0,682.3,completed,Demo transaction for FinPilot presentation
+2026-02-16,22309.51,expense,Other Expense,Office rent - 2,Office Depot India,,net_banking,REF2025013,INV-2025-1013,4015.71,0,completed,Demo transaction for FinPilot presentation
+2026-02-16,17970.12,expense,Professional Fees,Office rent - May,Tata Power,,bank_transfer,REF2025082,INV-2025-1082,3234.62,0,completed,Demo transaction for FinPilot presentation
+2026-02-17,37030.78,expense,Rent,Office rent - May,QuickBooks Partner,,bank_transfer,REF2025099,INV-2025-1099,6665.54,0,completed,Demo transaction for FinPilot presentation
+2026-02-18,39282.76,expense,Bank Charges,Office rent - 2,QuickBooks Partner,,credit_card,REF2025130,INV-2025-1130,0,0,completed,Demo transaction for FinPilot presentation
+2026-02-19,22842.33,expense,Travel,Monthly cloud hosting,UrbanClap Pro,,credit_card,REF2025043,INV-2025-1043,0,0,completed,Demo transaction for FinPilot presentation
+2026-02-20,59803.82,income,Interest Income,Consulting invoice payment,,CloudNine Hospitality,cash,REF2025008,INV-2025-1008,0,0,completed,Demo transaction for FinPilot presentation
+2026-02-22,37826.17,income,Sales,Interest credited,,SmartHome Automation,net_banking,REF2025136,INV-2025-1136,0,0,completed,Demo transaction for FinPilot presentation
+2026-02-23,30676.7,expense,Office Supplies,Software subscription,HDFC Bank,,bank_transfer,REF2025015,INV-2025-1015,0,0,completed,Demo transaction for FinPilot presentation
+2026-02-23,28238.13,income,Other Income,Monthly retainer fee,,UrbanFit Gym Chain,debit_card,REF2025052,INV-2025-1052,0,2823.81,completed,Demo transaction for FinPilot presentation
+2026-02-27,1068.37,expense,Bank Charges,Digital marketing campaign,Microsoft India,,net_banking,REF2025078,INV-2025-1078,192.31,0,completed,Demo transaction for FinPilot presentation
+2026-02-27,55226.63,income,Service Revenue,Project milestone payment,,SmartHome Automation,bank_transfer,REF2025148,INV-2025-1148,0,0,completed,Demo transaction for FinPilot presentation
+2026-03-03,49418.66,income,Service Revenue,Consulting invoice payment,,Heritage Handicrafts,cash,REF2025036,INV-2025-1036,0,0,completed,Demo transaction for FinPilot presentation
+2026-03-04,25951.57,expense,Marketing,Client meeting travel,UrbanClap Pro,,credit_card,REF2025138,INV-2025-1138,4671.28,0,completed,Demo transaction for FinPilot presentation
+2026-03-05,24603.56,income,Other Income,Service contract renewal,,GreenEnergy Solar,upi,REF2025032,INV-2025-1032,0,0,completed,Demo transaction for FinPilot presentation
+2026-03-05,42652.04,expense,Rent,Team salaries,Microsoft India,,upi,REF2025103,INV-2025-1103,0,0,completed,Demo transaction for FinPilot presentation
+2026-03-06,2155.4,expense,Professional Fees,CA audit fees,Canon India,,net_banking,REF2025125,INV-2025-1125,387.97,0,completed,Demo transaction for FinPilot presentation
+2026-03-13,20788.76,expense,Travel,Bank service charges,Google Cloud India,,upi,REF2025135,INV-2025-1135,3741.98,0,completed,Demo transaction for FinPilot presentation

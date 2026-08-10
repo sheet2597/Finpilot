@@ -1,0 +1,2 @@
+row_number,status,duplicate_of,date,amount,type,category,description,vendor,customer,payment_method,reference_number,invoice_number,gst_amount,tds_amount,status,notes
+2,duplicate_flagged,Same reference number as an existing transaction,2026-01-05,1000,income,Sales,Same ref as existing,,,bank_transfer,DUPREF,,0,0,completed,

@@ -1,0 +1,1 @@
+import{j as t}from"./index-JnyuYs99.js";import{P as r}from"./PartyDetailPage-cpY0TUaP.js";import"./Card-B32pbG8k.js";import"./ConfirmDialog-BYEhhE7R.js";import"./Modal-Cc9CE16L.js";import"./hooks-CMPkLZ-K.js";import"./useWorkspaceFilters-xZq_flSh.js";function u(){return t.jsx(r,{kind:"customers"})}export{u as default};

@@ -1,0 +1,32 @@
+row_number,status,duplicate_of,date,amount,type,category,description,vendor,customer,payment_method,reference_number,invoice_number,gst_amount,tds_amount,status,notes
+6,imported,,2026-06-03,-500,expense,Office Supplies,Negative amount edge case,,,,,,,,,
+7,imported,,2026-06-03,0,expense,Office Supplies,Zero amount edge case,,,,,,,,,
+8,imported,,2026-06-03,99999999.99,income,Sales,Very large amount edge case,,,,,,,,,
+9,imported,,2026-06-03,0.01,expense,Office Supplies,Smallest boundary amount,,,,,,,,,
+10,imported,,2030-01-01,2500,income,Sales,Future-dated transaction,,,,,,,,,
+11,imported,,1999-01-01,2500,expense,Office Supplies,Very old dated transaction,,,,,,,,,
+12,imported,,2024-02-29,3000,expense,Office Supplies,Leap year date (2024),,,,,,,,,
+13,imported,,2028-02-29,3000,expense,Office Supplies,Leap year date (2028),,,,,,,,,
+14,imported,,2026-05-10,15000,expense,Office Supplies,Original row for duplicate test A,Apex Office Supplies,,,REFDUPTEST0001,INV-DUP-0001,,,,
+15,duplicate_flagged,Same reference number as an existing transaction,2026-05-10,15000,expense,Office Supplies,Duplicate: same reference_number as row above,Apex Office Supplies,,,REFDUPTEST0001,INV-DUP-9999,,,,
+16,imported,,2026-05-11,8800,expense,Office Supplies,Original row for duplicate test B,Metro Logistics,,,REFDUPTEST0002,INV-DUP-0002,,,,
+17,duplicate_flagged,Same invoice number as an existing transaction,2026-05-11,8800,expense,Office Supplies,Duplicate: same invoice_number as row above,Metro Logistics,,,REFDUPTEST0003,INV-DUP-0002,,,,
+18,imported,,2026-05-12,4200,expense,Office Supplies,Original row for duplicate test C (date+amount+type),,,,REFDUPTEST0004,INV-DUP-0004,,,,
+19,duplicate_flagged,"Same date, amount and type as an existing transaction",2026-05-12,4200,expense,Utilities,Duplicate: same date+amount+type as row above,,,,REFDUPTEST0005,INV-DUP-0005,,,,
+20,imported,,2026-05-13,7700,expense,Office Supplies,Original row for duplicate test D (vendor+amount),Prime Stationery,,,REFDUPTEST0006,INV-DUP-0006,,,,
+21,imported,,2026-06-20,7700,expense,Office Supplies,"Duplicate: same vendor+amount as row above, different date",Prime Stationery,,,REFDUPTEST0007,INV-DUP-0007,,,,
+22,imported,,2026-06-04,1200,expense,Office Supplies,चालान भुगतान - Unicode Hindi text,,,,,,,,,
+23,duplicate_flagged,"Same date, amount and type as an existing transaction",2026-06-04,1200,expense,Office Supplies,支払い領収書 - Unicode Japanese text,,,,,,,,,
+24,duplicate_flagged,"Same date, amount and type as an existing transaction",2026-06-04,1200,expense,Office Supplies,Réçu spécial - café ☕ - unicode + emoji,,,,,,,,,
+25,imported,,2026-06-05,1500,expense,Office Supplies,"Special chars test: <script>alert(1)</script> ""quoted"" 'apostrophe' & ampersand, 100% done",,,,,,,,,
+26,duplicate_flagged,"Same date, amount and type as an existing transaction",2026-06-05,1500,expense,Office Supplies,,,,,,,,,,"Ref#2026/Q1 <urgent>; Amount: ₹1,00,000 (approx); Vendor ""ABC & Co."""
+27,imported,,2026-06-06,1800,expense,Office Supplies,Very long description field. Very long description field. Very long description field. Very long description field. Very long description field. Very long description field. Very long description field. Very long description field. Very long description field. Very long description field. Very long description field. Very long description field. Very long description field. Very long description field. Very long description field. Very long description field. Very long description fiel,,,,,,,,,Long description boundary test
+28,imported,,2026-06-07,999,expense,Office Supplies,All optional fields blank,,,,,,,,,
+29,imported,,2026-06-08,2200,expense,Office Supplies,"Unknown vendor name - should still import, just unlinked",Vendor That Does Not Exist Yet,,,,,,,,
+30,imported,,2026-06-08,2200,income,Sales,"Unknown customer name - should still import, just unlinked",,Customer That Does Not Exist Yet,,,,,,,
+31,imported,,2026-06-09,500,expense,Office Supplies,Paid via international card,,,,,,,,,"Original charge was USD 6.00, converted to INR"
+32,imported,,2026-06-10,350,expense,Office Supplies,Payment method spot-check (cash),,,cash,,,,,,
+33,duplicate_flagged,"Same date, amount and type as an existing transaction",2026-06-10,350,expense,Office Supplies,Payment method spot-check (upi),,,upi,,,,,,
+34,duplicate_flagged,"Same date, amount and type as an existing transaction",2026-06-10,350,expense,Office Supplies,Payment method spot-check (neft_style_bank_transfer_note),,,bank_transfer,,,,,,NEFT reference noted in text
+35,imported,,2026-06-11,650,expense,Office Supplies,Status spot-check (pending),,,,,,,,pending,
+36,duplicate_flagged,"Same date, amount and type as an existing transaction",2026-06-11,650,expense,Office Supplies,Status spot-check (cancelled),,,,,,,,cancelled,

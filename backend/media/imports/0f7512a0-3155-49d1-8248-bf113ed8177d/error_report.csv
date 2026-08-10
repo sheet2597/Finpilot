@@ -1,0 +1,12 @@
+row_number,error,date,amount,type,category,description,vendor,customer,payment_method,reference_number,invoice_number,gst_amount,tds_amount,status,notes
+2,"[ErrorDetail(string=""Unknown category 'None'."", code='invalid')]",2026-07-01,150000.00,income,,Client Software Retainer Fee,,,bank_transfer,REF-8801,INV-2026-001,,,,
+3,"[ErrorDetail(string=""Unknown category 'None'."", code='invalid')]",2026-07-02,15000.00,expense,,HP LaserJet Printer Cartridges,,,credit_card,REF-8802,INV-2026-002,,,,
+4,"[ErrorDetail(string=""Unknown category 'None'."", code='invalid')]",2026-07-02,15000.00,expense,,HP LaserJet Printer Cartridges,,,credit_card,REF-8802,INV-2026-002,,,,
+5,"[ErrorDetail(string=""Unknown category 'None'."", code='invalid')]",2026-07-03,42500.00,expense,,AWS Cloud Infrastructure Billing,,,credit_card,REF-8803,INV-AWS-771,,,,
+6,"[ErrorDetail(string=""Unknown category 'None'."", code='invalid')]",2026-07-05,45000.00,expense,,Office Rent July 2026,,,bank_transfer,REF-8804,INV-RENT-07,,,,
+7,"[ErrorDetail(string=""Unknown category 'None'."", code='invalid')]",2026-07-08,220000.00,income,,Web Design Consultancy Retainer,,,bank_transfer,REF-8805,INV-2026-003,,,,
+8,"[ErrorDetail(string=""Unknown category 'None'."", code='invalid')]",2026-07-10,4500.00,expense,,High Speed Fiber Internet Bill,,,credit_card,REF-8806,INV-ACT-990,,,,
+9,"[ErrorDetail(string=""Unknown category 'None'."", code='invalid')]",2026-07-12,12800.00,expense,,Team Monthly Lunch & Catering,,,cash,REF-8807,INV-REST-44,,,,
+10,"[ErrorDetail(string=""Unknown category 'None'."", code='invalid')]",2026-07-15,8500.00,expense,,Google Workspace Licenses,,,credit_card,REF-8808,INV-GOOG-112,,,,
+11,"[ErrorDetail(string=""Unknown category 'None'."", code='invalid')]",2026-07-18,35000.00,expense,,Legal Advisory & Tax Audit retainer,,,bank_transfer,REF-8809,INV-LEG-881,,,,
+12,"[ErrorDetail(string=""Unknown category 'None'."", code='invalid')]",2026-07-20,310000.00,income,,Export Advisory Services,,,bank_transfer,REF-8810,INV-2026-004,,,,

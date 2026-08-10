@@ -1,0 +1,202 @@
+[
+  {
+    "id": 1,
+    "title": "GST Invoice - Demo 1",
+    "type": "GST Invoice",
+    "company": "NovaTech Solutions Pvt Ltd",
+    "sample_file": "documents/sample_invoice_1.pdf",
+    "upload_note": "Upload via Documents page; OCR optional"
+  },
+  {
+    "id": 2,
+    "title": "Purchase Order - Demo 2",
+    "type": "Purchase Order",
+    "company": "GreenLeaf Organics",
+    "sample_file": "documents/sample_invoice_2.pdf",
+    "upload_note": "Upload via Documents page; OCR optional"
+  },
+  {
+    "id": 3,
+    "title": "Bank Statement - Demo 3",
+    "type": "Bank Statement",
+    "company": "Skyline Freelance Studio",
+    "sample_file": "documents/sample_invoice_3.pdf",
+    "upload_note": "Upload via Documents page; OCR optional"
+  },
+  {
+    "id": 4,
+    "title": "TDS Certificate - Demo 4",
+    "type": "TDS Certificate",
+    "company": "NovaTech Solutions Pvt Ltd",
+    "sample_file": "documents/sample_invoice_4.pdf",
+    "upload_note": "Upload via Documents page; OCR optional"
+  },
+  {
+    "id": 5,
+    "title": "Salary Slip - Demo 5",
+    "type": "Salary Slip",
+    "company": "GreenLeaf Organics",
+    "sample_file": "documents/sample_invoice_5.pdf",
+    "upload_note": "Upload via Documents page; OCR optional"
+  },
+  {
+    "id": 6,
+    "title": "Rent Agreement - Demo 6",
+    "type": "Rent Agreement",
+    "company": "Skyline Freelance Studio",
+    "sample_file": null,
+    "upload_note": "Upload via Documents page; OCR optional"
+  },
+  {
+    "id": 7,
+    "title": "Insurance Policy - Demo 7",
+    "type": "Insurance Policy",
+    "company": "NovaTech Solutions Pvt Ltd",
+    "sample_file": null,
+    "upload_note": "Upload via Documents page; OCR optional"
+  },
+  {
+    "id": 8,
+    "title": "Audit Report - Demo 8",
+    "type": "Audit Report",
+    "company": "GreenLeaf Organics",
+    "sample_file": null,
+    "upload_note": "Upload via Documents page; OCR optional"
+  },
+  {
+    "id": 9,
+    "title": "Balance Sheet - Demo 9",
+    "type": "Balance Sheet",
+    "company": "Skyline Freelance Studio",
+    "sample_file": null,
+    "upload_note": "Upload via Documents page; OCR optional"
+  },
+  {
+    "id": 10,
+    "title": "Profit & Loss Statement - Demo 10",
+    "type": "Profit & Loss Statement",
+    "company": "NovaTech Solutions Pvt Ltd",
+    "sample_file": null,
+    "upload_note": "Upload via Documents page; OCR optional"
+  },
+  {
+    "id": 11,
+    "title": "ITR Acknowledgement - Demo 11",
+    "type": "ITR Acknowledgement",
+    "company": "GreenLeaf Organics",
+    "sample_file": null,
+    "upload_note": "Upload via Documents page; OCR optional"
+  },
+  {
+    "id": 12,
+    "title": "GSTR-1 Summary - Demo 12",
+    "type": "GSTR-1 Summary",
+    "company": "Skyline Freelance Studio",
+    "sample_file": null,
+    "upload_note": "Upload via Documents page; OCR optional"
+  },
+  {
+    "id": 13,
+    "title": "GSTR-3B Summary - Demo 13",
+    "type": "GSTR-3B Summary",
+    "company": "NovaTech Solutions Pvt Ltd",
+    "sample_file": null,
+    "upload_note": "Upload via Documents page; OCR optional"
+  },
+  {
+    "id": 14,
+    "title": "Vendor Contract - Demo 14",
+    "type": "Vendor Contract",
+    "company": "GreenLeaf Organics",
+    "sample_file": null,
+    "upload_note": "Upload via Documents page; OCR optional"
+  },
+  {
+    "id": 15,
+    "title": "Client Agreement - Demo 15",
+    "type": "Client Agreement",
+    "company": "Skyline Freelance Studio",
+    "sample_file": null,
+    "upload_note": "Upload via Documents page; OCR optional"
+  },
+  {
+    "id": 16,
+    "title": "Expense Receipt - Demo 16",
+    "type": "Expense Receipt",
+    "company": "NovaTech Solutions Pvt Ltd",
+    "sample_file": null,
+    "upload_note": "Upload via Documents page; OCR optional"
+  },
+  {
+    "id": 17,
+    "title": "Travel Bill - Demo 17",
+    "type": "Travel Bill",
+    "company": "GreenLeaf Organics",
+    "sample_file": null,
+    "upload_note": "Upload via Documents page; OCR optional"
+  },
+  {
+    "id": 18,
+    "title": "Utility Bill - Demo 18",
+    "type": "Utility Bill",
+    "company": "Skyline Freelance Studio",
+    "sample_file": null,
+    "upload_note": "Upload via Documents page; OCR optional"
+  },
+  {
+    "id": 19,
+    "title": "Professional Fee Invoice - Demo 19",
+    "type": "Professional Fee Invoice",
+    "company": "NovaTech Solutions Pvt Ltd",
+    "sample_file": null,
+    "upload_note": "Upload via Documents page; OCR optional"
+  },
+  {
+    "id": 20,
+    "title": "Loan Statement - Demo 20",
+    "type": "Loan Statement",
+    "company": "GreenLeaf Organics",
+    "sample_file": null,
+    "upload_note": "Upload via Documents page; OCR optional"
+  },
+  {
+    "id": 21,
+    "title": "Investment Statement - Demo 21",
+    "type": "Investment Statement",
+    "company": "Skyline Freelance Studio",
+    "sample_file": null,
+    "upload_note": "Upload via Documents page; OCR optional"
+  },
+  {
+    "id": 22,
+    "title": "PAN Card Copy - Demo 22",
+    "type": "PAN Card Copy",
+    "company": "NovaTech Solutions Pvt Ltd",
+    "sample_file": null,
+    "upload_note": "Upload via Documents page; OCR optional"
+  },
+  {
+    "id": 23,
+    "title": "GST Registration - Demo 23",
+    "type": "GST Registration",
+    "company": "GreenLeaf Organics",
+    "sample_file": null,
+    "upload_note": "Upload via Documents page; OCR optional"
+  },
+  {
+    "id": 24,
+    "title": "MSME Certificate - Demo 24",
+    "type": "MSME Certificate",
+    "company": "Skyline Freelance Studio",
+    "sample_file": null,
+    "upload_note": "Upload via Documents page; OCR optional"
+  },
+  {
+    "id": 25,
+    "title": "Board Resolution - Demo 25",
+    "type": "Board Resolution",
+    "company": "NovaTech Solutions Pvt Ltd",
+    "sample_file": null,
+    "upload_note": "Upload via Documents page; OCR optional"
+  }
+]

@@ -1,0 +1,3 @@
+date,amount,type,category,description,vendor,customer,payment_method,reference_number,invoice_number,gst_amount,tds_amount,status,notes
+2026-01-05,1000,income,Sales,Invoice 1,,,bank_transfer,REF1,,0,0,completed,
+2026-01-06,500,expense,Office Supplies,Pens,,,bank_transfer,REF2,,0,0,completed,
