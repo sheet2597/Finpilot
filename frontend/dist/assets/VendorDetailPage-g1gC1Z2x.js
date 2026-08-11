@@ -1,1 +1,0 @@
-import{j as r}from"./index-JnyuYs99.js";import{P as t}from"./PartyDetailPage-cpY0TUaP.js";import"./Card-B32pbG8k.js";import"./ConfirmDialog-BYEhhE7R.js";import"./Modal-Cc9CE16L.js";import"./hooks-CMPkLZ-K.js";import"./useWorkspaceFilters-xZq_flSh.js";function s(){return r.jsx(t,{kind:"vendors"})}export{s as default};
